@@ -1,0 +1,4 @@
+flask
+flask-cors
+flask-openapi3[swagger,redoc,rapidoc]
+pydantic
